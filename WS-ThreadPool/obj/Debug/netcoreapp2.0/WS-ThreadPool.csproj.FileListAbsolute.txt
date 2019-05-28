@@ -1,0 +1,10 @@
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/obj/Debug/netcoreapp2.0/WS-ThreadPool.csproj.CoreCompileInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/obj/Debug/netcoreapp2.0/WS-ThreadPool.AssemblyInfoInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/obj/Debug/netcoreapp2.0/WS-ThreadPool.AssemblyInfo.cs
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/bin/Debug/netcoreapp2.0/WS-ThreadPool.deps.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/bin/Debug/netcoreapp2.0/WS-ThreadPool.runtimeconfig.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/bin/Debug/netcoreapp2.0/WS-ThreadPool.runtimeconfig.dev.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/bin/Debug/netcoreapp2.0/WS-ThreadPool.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/bin/Debug/netcoreapp2.0/WS-ThreadPool.pdb
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/obj/Debug/netcoreapp2.0/WS-ThreadPool.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-ThreadPool/obj/Debug/netcoreapp2.0/WS-ThreadPool.pdb

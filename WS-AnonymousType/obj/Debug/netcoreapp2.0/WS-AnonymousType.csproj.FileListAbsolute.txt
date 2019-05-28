@@ -1,0 +1,10 @@
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/bin/Debug/netcoreapp2.0/WS-AnonymousType.deps.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/bin/Debug/netcoreapp2.0/WS-AnonymousType.runtimeconfig.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/bin/Debug/netcoreapp2.0/WS-AnonymousType.runtimeconfig.dev.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/bin/Debug/netcoreapp2.0/WS-AnonymousType.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/bin/Debug/netcoreapp2.0/WS-AnonymousType.pdb
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/obj/Debug/netcoreapp2.0/WS-AnonymousType.csproj.CoreCompileInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/obj/Debug/netcoreapp2.0/WS-AnonymousType.AssemblyInfoInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/obj/Debug/netcoreapp2.0/WS-AnonymousType.AssemblyInfo.cs
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/obj/Debug/netcoreapp2.0/WS-AnonymousType.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-AnonymousType/obj/Debug/netcoreapp2.0/WS-AnonymousType.pdb

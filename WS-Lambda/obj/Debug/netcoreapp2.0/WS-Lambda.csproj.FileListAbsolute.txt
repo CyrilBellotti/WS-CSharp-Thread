@@ -1,0 +1,10 @@
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/bin/Debug/netcoreapp2.0/WS-Lambda.deps.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/bin/Debug/netcoreapp2.0/WS-Lambda.runtimeconfig.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/bin/Debug/netcoreapp2.0/WS-Lambda.runtimeconfig.dev.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/bin/Debug/netcoreapp2.0/WS-Lambda.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/bin/Debug/netcoreapp2.0/WS-Lambda.pdb
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/obj/Debug/netcoreapp2.0/WS-Lambda.csproj.CoreCompileInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/obj/Debug/netcoreapp2.0/WS-Lambda.AssemblyInfoInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/obj/Debug/netcoreapp2.0/WS-Lambda.AssemblyInfo.cs
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/obj/Debug/netcoreapp2.0/WS-Lambda.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Lambda/obj/Debug/netcoreapp2.0/WS-Lambda.pdb

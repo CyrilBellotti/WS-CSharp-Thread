@@ -1,0 +1,10 @@
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/bin/Debug/netcoreapp2.0/WS-Synchronization2.deps.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/bin/Debug/netcoreapp2.0/WS-Synchronization2.runtimeconfig.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/bin/Debug/netcoreapp2.0/WS-Synchronization2.runtimeconfig.dev.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/bin/Debug/netcoreapp2.0/WS-Synchronization2.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/bin/Debug/netcoreapp2.0/WS-Synchronization2.pdb
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/obj/Debug/netcoreapp2.0/WS-Synchronization2.csproj.CoreCompileInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/obj/Debug/netcoreapp2.0/WS-Synchronization2.AssemblyInfoInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/obj/Debug/netcoreapp2.0/WS-Synchronization2.AssemblyInfo.cs
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/obj/Debug/netcoreapp2.0/WS-Synchronization2.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Synchronization2/obj/Debug/netcoreapp2.0/WS-Synchronization2.pdb

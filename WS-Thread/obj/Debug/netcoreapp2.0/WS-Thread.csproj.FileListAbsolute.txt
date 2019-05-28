@@ -1,0 +1,10 @@
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/bin/Debug/netcoreapp2.0/WS-Thread.deps.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/bin/Debug/netcoreapp2.0/WS-Thread.runtimeconfig.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/bin/Debug/netcoreapp2.0/WS-Thread.runtimeconfig.dev.json
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/bin/Debug/netcoreapp2.0/WS-Thread.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/bin/Debug/netcoreapp2.0/WS-Thread.pdb
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/obj/Debug/netcoreapp2.0/WS-Thread.csproj.CoreCompileInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/obj/Debug/netcoreapp2.0/WS-Thread.AssemblyInfoInputs.cache
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/obj/Debug/netcoreapp2.0/WS-Thread.AssemblyInfo.cs
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/obj/Debug/netcoreapp2.0/WS-Thread.dll
+/Users/lirycxxxx/Projets/Exia/CSharp/WS-Delegate/WS-Thread/obj/Debug/netcoreapp2.0/WS-Thread.pdb
